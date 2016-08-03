@@ -1,4 +1,5 @@
 # hello-world
-first Git repository
+Name:  first Git repository
+Memo: This is my 3rd day at APL. Things are getting interesting!
 
-This is my 3rd day at APL. Things are getting interesting!
+Comment: This is fun :)
